@@ -1,0 +1,6 @@
+We define the coloring number of a graph of V vertices and E edges to be the smallest number of colors such that no two vertices that share an edge are colored the same. Consider the following graph:
+
+1. The vertices are the integers 2, 3, 4, 5, 6, …., 9,998, 9,999, and 10,000
+2. Two vertices are connected by an edge if they share a common factor. So there isn’t an edge between 2 and 3, but there is between 2 and 6, another between 3 and 6, but none between 2 and 5, between 3 and 5, …
+Prove that the coloring number of this graph is at least 13.
+
