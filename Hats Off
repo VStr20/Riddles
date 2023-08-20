@@ -1,10 +1,17 @@
-Three mathematicians are applying for a job. There are five hats, three white, two black. They’re lined up, and a hat is placed on each. The first person in line cannot see any hat; the second in line sees only the hat of the person in front of him; the third person sees only the hats of the two people in front of her. The first person to correctly figure out what color hat he has gets the job; you guess wrong and you are killed. Assume these are INTELLIGENT mathematicians, and that they will do the logically correct thing at each stage — if something can be deduced, they will figure it out. After a long pause, the first person, who cannot see any hats, says he knows the color of his hat. What is the color, and how does he know?
+Three mathematicians are applying for a job. There are five hats, three white, two black. They’re lined up, and a hat is
+placed on each. The first person in line cannot see any hat; the second in line sees only the hat of the person in front 
+of him; the third person sees only the hats of the two people in front of her. The first person to correctly figure out 
+what color hat he has gets the job; you guess wrong and you are killed. Assume these are INTELLIGENT mathematicians, and 
+that they will do the logically correct thing at each stage — if something can be deduced, they will figure it out. After 
+a long pause, the first person, who cannot see any hats, says he knows the color of his hat. What is the color, and how 
+does he know?
 
 Take care of the "long Pause"
 If both the people in front had blach hats then the 3rd person would not wait.
 Hence it could be
 WWB  WBW  BWB  BBW  WWW  BWW
-2nd person knows that 3rd person didnot speak. From the cases above if the 1st person in front has black hat then 2nd person definitely has white hat.
+2nd person knows that 3rd person didnot speak. From the cases above if the 1st person in front has black hat then 2nd 
+person definitely has white hat.
 But the second person is also quiet. 
 Hence the cases reduce to
 WBW  BBW WWW BWW
