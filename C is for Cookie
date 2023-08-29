@@ -1,0 +1,6 @@
+Ten identical cookies are to be distributed among five different kids (A, B, C, D, and E). All 10 cookies are distributed. 
+How many different ways can the five kids be given cookies?
+
+Consider the problem as 10 cookies and 4 sticks where these 14 objects can be arranged in any way to divide the 10 objects in 5 groups.
+OO | OOO | OO | 000
+Number of ways would be 14C4.
